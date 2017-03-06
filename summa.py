@@ -1,10 +1,10 @@
 # implement function that sum two numbers
 # implement function that multiply two numbers
-
+#comment
 def summa(x, y):
-    pass
+    return x+y
 
 
 def product(x, y):
-    pass
+    return x*y
 
